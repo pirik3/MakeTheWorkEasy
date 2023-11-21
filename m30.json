@@ -1,0 +1,78 @@
+{
+  "Classes": [
+    {
+      "ID": "3e7d963f0f0545999c4e4d9097c999f1",
+      "Name": "damage1",
+      "Color": -8372224
+    },
+    {
+      "ID": "b325362c3a834d6595290e6ad3b7d7ac",
+      "Name": "damage2",
+      "Color": -16711808
+    },
+    {
+      "ID": "b3327fb1bab24bbb90f7c0f97f7dada3",
+      "Name": "damage3",
+      "Color": -16744320
+    }
+  ],
+  "Images": [
+    {
+      "Name": "e8eff501a710451abdb453099357f83e.png",
+      "Marks": [
+        {
+          "ClassId": "3e7d963f0f0545999c4e4d9097c999f1",
+          "CenterX": 0.467875,
+          "CenterY": 0.44266668,
+          "Width": 0.04525,
+          "Height": 0.038666666
+        },
+        {
+          "ClassId": "b325362c3a834d6595290e6ad3b7d7ac",
+          "CenterX": 0.534375,
+          "CenterY": 0.47833332,
+          "Width": 0.05125,
+          "Height": 0.036666665
+        },
+        {
+          "ClassId": "b3327fb1bab24bbb90f7c0f97f7dada3",
+          "CenterX": 0.499625,
+          "CenterY": 0.5326667,
+          "Width": 0.05575,
+          "Height": 0.029333333
+        }
+      ]
+    },
+    {
+      "Name": "5e48bc86208a40a985bb7ae4db1b6d52.png",
+      "Marks": [
+        {
+          "ClassId": "3e7d963f0f0545999c4e4d9097c999f1",
+          "CenterX": 0.46825,
+          "CenterY": 0.4555,
+          "Width": 0.028,
+          "Height": 0.031
+        },
+        {
+          "ClassId": "b325362c3a834d6595290e6ad3b7d7ac",
+          "CenterX": 0.535,
+          "CenterY": 0.5201667,
+          "Width": 0.054,
+          "Height": 0.031
+        }
+      ]
+    },
+    {
+      "Name": "93dfbdc0dd6a4d95b5c6fdf9e7f7711c.png",
+      "Marks": [
+        {
+          "ClassId": "3e7d963f0f0545999c4e4d9097c999f1",
+          "CenterX": 0.488125,
+          "CenterY": 0.47633332,
+          "Width": 0.05375,
+          "Height": 0.06666667
+        }
+      ]
+    }
+  ]
+}
